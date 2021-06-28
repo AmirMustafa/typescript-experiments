@@ -1,0 +1,1 @@
+{"version":3,"file":"13-interface-with-objects.js","sourceRoot":"","sources":["../src/13-interface-with-objects.ts"],"names":[],"mappings":";AAMA,IAAI,IAAY,CAAC;AAEjB,IAAI,GAAG;IACH,IAAI,EAAE,MAAM;IACZ,GAAG,EAAE,EAAE;IACP,KAAK,CAAC,MAAc;QAChB,OAAO,CAAC,GAAG,CAAC,MAAM,GAAG,GAAG,GAAG,IAAI,CAAC,IAAI,CAAC,CAAC;IAC1C,CAAC;CACJ,CAAC;AAEF,IAAI,CAAC,KAAK,CAAC,oBAAoB,CAAC,CAAC"}

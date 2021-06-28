@@ -1,0 +1,1 @@
+{"version":3,"file":"25-optional-chaing.js","sourceRoot":"","sources":["../src/25-optional-chaing.ts"],"names":[],"mappings":";;AAAA,gFAAgF;AAChF,IAAI,OAAO,GAAG;IACV,IAAI,EAAE,QAAQ;IACd,GAAG,EAAE,EAAE;IACP,GAAG,EAAE,EAAC,KAAK,EAAE,aAAa,EAAE,WAAW,EAAE,+BAA+B,EAAC;CAC5E,CAAC;AAEF,IAAI,OAAO,GAAG,MAAA,OAAO,aAAP,OAAO,uBAAP,OAAO,CAAE,GAAG,0CAAE,KAAK,CAAC"}
